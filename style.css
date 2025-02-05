@@ -62,9 +62,9 @@ body{
 }
 
 .sales_1 img{
-    width:100%;
+    width:90%;
     height:300px;
-    border:solid black 1px;
+    border:solid black 5px;
 }
 .recommened{
     padding: 10px;
